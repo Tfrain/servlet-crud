@@ -8,3 +8,9 @@
 out
 gen
 *.xml
+build
+classes
+/.idea/vcs.xml
+.settings
+.classpath
+.project
